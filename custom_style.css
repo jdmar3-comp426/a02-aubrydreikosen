@@ -3,7 +3,7 @@ This css file is here to add functionality and style elements that
 were needed. You must not edit this file or use it in any way.
  */
 
-html, body{
+ html, body{
     height: 100%;
     font-size: 1.1em;
     background-color: #fafafa;
@@ -40,4 +40,3 @@ img:hover {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
     transform: scale(1.05);
 }
-
