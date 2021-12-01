@@ -1,0 +1,23 @@
+{
+  "name": "a02-aubrydreikosen",
+  "version": "1.0.0",
+  "description": "Assignment a02 COMP426",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aubrydreikosen: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@github.com/jdmar3-comp426/a02-aubrydreikosen.git"
+  },
+  "author": "Aubry Dreikosen",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-aubrydreikosen/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-aubrydreikosen#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
+  }
+}
